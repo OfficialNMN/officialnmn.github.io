@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Full Stack Python Developer and Data Science Enthusiast
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I struggle to do simple things.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[singhnaman985@gmail.com](mailto:email@domain.com)
